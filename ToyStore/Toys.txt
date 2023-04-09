@@ -1,0 +1,2 @@
+Toy [id=1, name=Машинка, weight=40.0]
+Toy [id=3, name=Матрёшка, weight=65.0]
